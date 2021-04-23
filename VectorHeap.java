@@ -1,9 +1,12 @@
 import java.util.PriorityQueue;
 import java.util.Vector;
 /**
- * @author JosÈ Rodrigo Barrera GarcÌa Carnet: 20807
+ * @author Jos√© Rodrigo Barrera Garc√≠a Carnet: 20807
  * Universidad del Valle de Guatemala
  * Hoja de trabajo 8
+ *Este codigo fue tomado de los ejemplos brindados por Douglas, como tambi√©n 
+ * se tomo como referencia la siguiente pagina para arreglar algunos errores 
+ * presentes en el codigo: https://www.geeksforgeeks.org/max-heap-in-java/
  */
 public class VectorHeap<E extends Comparable<E>> extends PriorityQueue<E>
 {
