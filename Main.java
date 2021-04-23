@@ -2,9 +2,16 @@ import java.util.*;
 
 /**
  *
- * @author Jos� Rodrigo Barrera Garc�a Carnet:20807
+ * @author José Rodrigo Barrera García Carnet:20807
  * Universidad del Valle de Guatemala
  * Hoja de trabajo 8
+ * Para cada uno de los codigos se tomo como referencia el de Douglas brindado en clase 
+ * Como también, para arreglar los errores presentes en dicho codigo tomé como referencia
+ * la siguiente pagina: https://www.geeksforgeeks.org/max-heap-in-java/
+ *Cabe a mencionar también que para el caso del txt de los pacientes, considere cambiar 
+ *La gravedad o el codigo de gravedad de Carmen Sarmientos que tiene dolores de parto 
+ *lo pase a un codigo A, ya que lo consideré necesario, como también, para poder 
+ *probar su funcionamiento me agregue yo mismo con una enfermedad.
  */
 public class Main {
 
