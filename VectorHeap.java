@@ -7,6 +7,7 @@ import java.util.Vector;
  *Este codigo fue tomado de los ejemplos brindados por Douglas, como también 
  * se tomo como referencia la siguiente pagina para arreglar algunos errores 
  * presentes en el codigo: https://www.geeksforgeeks.org/max-heap-in-java/
+ *https://www.geeksforgeeks.org/priority-queue-class-in-java-2/
  */
 public class VectorHeap<E extends Comparable<E>> extends PriorityQueue<E>
 {
